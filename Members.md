@@ -33,3 +33,28 @@ Email: carman.wang@foxmail.com
 
 
 ## Henry
+
+#### Publication：
+
+**<u>期刊论文</u>**
+
+Li, Z., **Guo, H. Y.**, Wang, W. M., Guan, Y. J., Barenji, A. V., Huang, G. Q., McFall, K. S., & Chen, X. (2019). A blockchain and AutoML approach for open and automated customer service. *IEEE Transactions on Industrial Informatics*, 15(6), 3642-3651.
+
+Li, Z., **Guo, H. Y.**, Wang, W. M., Barenji, A. V., Guan, Y. J., & Huang, G. Q. (2020). A sustainable production capability evaluation mechanism based on blockchain, LSTM, Analytic Hierarchy Process for supply chain network. *International Journal of Production Research*. DOI: 10.1080/00207543.2020.1740342.
+
+Li, Z., Liu, X. L., **Guo, H. Y.**, Wang, W. M., Barenji, A. V., & Huang, G. Q. (2019). Industrial blockchain based framework for product lifecycle management in industry 4.0. *Robotics and Computer-Integrated Manufacturing*, 63, 101897
+
+Barenji, A. V., Liu, X. L., **Guo, H. Y.**, Li, Z. & Wang, W. M. (2020). A Digital Twin-driven Approach Towards Smart Manufacturing: Reduced Energy Consumption for a Robotic Cellular. *International Journal of Computer Integrated Manufacturing*. (Accepted)
+
+**<u>会议论文</u>**
+
+Wang, W. M., **Guo, H. Y.**, Li, Z., Shen, Y. H., & Barenji, A. V. Towards Open and Automated Customer Service: A Blockchain-based AutoML Framework. 2nd International Conference on Computer Science and Application Engineering, Hohhot, China, October, 2018. (EI)
+
+Barenji, A. V., **Guo, H. Y.**, Tian, Z. G., Li, Z., Wang, W. M., & Huang, G. Q. Blockchain-Based Cloud Manufacturing: Decentralization. 25th ISPE International Conference on Transdisciplinary Engineering, Modena, Italy, July, 2018. (EI)
+
+Guan, Y. J., Liu, X. L., **Guo, H. Y.**, & Li, Z. Blockchain Based Electronic Contract Management System. 2018 INFORMS International Conference, Taipei, Taiwan, June, 2018.
+
+
+
+Email:henryguochina@163.com
+
