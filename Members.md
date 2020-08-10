@@ -42,9 +42,11 @@ Li, Z., **Guo, H. Y.**, Wang, W. M., Guan, Y. J., Barenji, A. V., Huang, G. Q., 
 
 Li, Z., **Guo, H. Y.**, Wang, W. M., Barenji, A. V., Guan, Y. J., & Huang, G. Q. (2020). A sustainable production capability evaluation mechanism based on blockchain, LSTM, Analytic Hierarchy Process for supply chain network. *International Journal of Production Research*. DOI: 10.1080/00207543.2020.1740342.
 
+Barenji, A. V., **Guo, H. Y.**, Wang, Y. T., Li, Z., & Rong, Y. M. (2020). Toward Blockchain and Fog Computing Collaborative Design and Manufacturing Platform: Support Customer View. *Robotics and Computer-Integrated Manufacturing*, 67, 102043.
+
 Li, Z., Liu, X. L., **Guo, H. Y.**, Wang, W. M., Barenji, A. V., & Huang, G. Q. (2019). Industrial blockchain based framework for product lifecycle management in industry 4.0. *Robotics and Computer-Integrated Manufacturing*, 63, 101897
 
-Barenji, A. V., Liu, X. L., **Guo, H. Y.**, Li, Z. & Wang, W. M. (2020). A Digital Twin-driven Approach Towards Smart Manufacturing: Reduced Energy Consumption for a Robotic Cellular. *International Journal of Computer Integrated Manufacturing*. (Accepted)
+Barenji, A. V., Liu, X. L., **Guo, H. Y.**, Li, Z. & Wang, W. M. (2020). A Digital Twin-driven Approach Towards Smart Manufacturing: Reduced Energy Consumption for a Robotic Cellular. *International Journal of Computer Integrated Manufacturing*.DOI: 10.1080/0951192X.2020.1775297
 
 **<u>会议论文</u>**
 
